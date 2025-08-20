@@ -1,0 +1,3 @@
+Middleware in Node.js is a function that has access to the request and response objects,
+as well as the next() function. It’s commonly used in Express to handle tasks like logging,
+authentication, error handling, and parsing incoming requests.

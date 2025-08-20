@@ -1,0 +1,24 @@
+{
+  "name": "shop-server",
+  "version": "1.0.0",
+  "description": "web server with microservice architecture",
+  "homepage": "https://github.com/sudheerkr/shop-server#readme",
+  "bugs": {
+    "url": "https://github.com/sudheerkr/shop-server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudheerkr/shop-server.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
